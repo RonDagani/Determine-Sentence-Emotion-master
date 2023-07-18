@@ -1,7 +1,7 @@
 # Determine-Sentence-Emotion
 
 
-Detrimane the emotion of a tweet using deep learning.
+Determine the emotion of a tweet using deep learning.
 1. [General](#General)
     - [Background](#background)
 3. [Program Structure](#Program-Structure)
@@ -48,7 +48,7 @@ function.
 
 2. Clone the project by:
 ```
-    $ git clone https://github.com/elaysason/Determine-Sentence-Emotion.git
+    $ git clone https://github.com/RonDagani/Determine-Sentence-Emotion.git
 ```
 3. Run the predict.py file by:
 ```
